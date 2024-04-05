@@ -22,3 +22,11 @@ https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/assets/113512290/
 
 ## Plot for Mean and Variance (Cartpole) Type 1 vs Type 2
 ![CartPolePlot](https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/assets/113512290/39ae19c0-c00f-4c1d-b9b2-d6cdf378659d)
+
+# Environment Acrobot Monte Carlo REINFORCE
+
+## Type1
+https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/blob/main/Videos/acrobot_no_baseline.gif
+
+## Type2
+https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/blob/main/Videos/acrobot_baseline.gif
