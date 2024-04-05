@@ -11,3 +11,14 @@ https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/assets/113512290/
 
 ## Plot for Mean and Variance (Acrobot) Type 1 vs Type 2
 ![AcrobotPlot](https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/assets/113512290/7bd5c8f8-62b9-4342-bddf-945dae009c9b)
+
+# Environment Cartpole Dueling DQN
+
+## Type 1
+https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/assets/113512290/d2269a9d-4891-4a42-9c41-47c6448eb989
+
+## Type 2
+https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/assets/113512290/3db89b20-6f3c-46b1-961b-d539e6cde2d7
+
+## Plot for Mean and Variance (Cartpole) Type 1 vs Type 2
+![CartpolePlot](https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/assets/113512290/96e22cc5-4407-4725-9714-57fd244f2b93)
