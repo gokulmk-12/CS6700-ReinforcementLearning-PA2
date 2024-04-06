@@ -39,7 +39,7 @@ https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/assets/113512290/
 ## Type1
 ![](https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/blob/main/Videos/reinforce_cartpole_no_baseline.gif)
 ## Type2
-![](https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/blob/main/Videos/reinforce_cartpole_no_baseline.gif)
+![](https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/blob/main/Videos/reinforce_cartpole_baseline.gif)
 
 ## Plot for Mean and Variance (Cartpole) Type 1 vs Type 2
 ![](https://github.com/gokulmk-12/CS6700-ReinforcementLearning-PA2/blob/main/REINFORCE_cartpole_plot.png)
